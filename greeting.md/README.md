@@ -9,9 +9,9 @@ the fact I am so _young_ in the class. It makes me feel like I am
 automatically expected to instantly grasp this knowledge faster than everyone else.
 
 I know I will:
-*Learn
-*Conquerer
-*And thrive 
+* Learn
+* Conquerer
+* And thrive 
 in coding, I just have to come out of my shell more. 
 
 Name|Type|Cool Factor
